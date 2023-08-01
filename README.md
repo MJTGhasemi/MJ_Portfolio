@@ -1,2 +1,4 @@
-# MJ_Portfolio
-Data Science Portfolio
+# Portfolio
+---
+
+## Stock Price EDA and Analysis (Time Series)
