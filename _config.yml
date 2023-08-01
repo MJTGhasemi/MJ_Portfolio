@@ -1,5 +1,20 @@
-title: Mojtaba Ghasemi
-#logo: MJ photo
+title: <p align="center"> Mojtaba Ghasemi </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mojtabaghasemi/">LinkedIn</a> |
+  <a href="https://github.com/MJTGhasemi">GitHub</a>
+  </p>
+
+  <p align="justify">
+  I have a Ph.D. in Biomedical Engineering from the University of Montreal. 
+  <br><br>
+  I am currently a Data Analyst at William Osler Health System, focusing on predictive and statistical analysis, and supervised and unsupervised learning.
+  <br><br>
+  </p>
 #description: text
 #show_downloads: true
 theme: jekyll-theme-minimal
