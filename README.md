@@ -3,7 +3,7 @@
 
 ## Stock Price EDA and Analysis (Time Series)
 
-An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted on stock prices. The data is fetched for four companies: `Apple`, `Google`, `Microsoft`, and `Amazon` from 2018-01-01 to 2023-07-31 using Yahoo Finance. By the end of this notebook, we hope to have extracted meaningful insights from our data and built a reliable time series model that can predict future stock prices. 
+An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted on stock prices. The data is fetched for four companies: `Apple`, `Google`, `Microsoft`, and `Amazon` from **2018-01-01** to **2023-07-31** using **Yahoo Finance**. By the end of this notebook, we hope to have extracted meaningful insights from our data and built a reliable time series model that can predict future stock prices. 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/ML_Projects/tree/main/Stocks%20Analysis)
 
