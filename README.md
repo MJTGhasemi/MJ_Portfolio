@@ -19,3 +19,4 @@ An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted 
 
 - The trained model is used to forecast the closing prices for the test set. The forecasts are plotted alongside the actual values. The residuals of the model are also plotted, and their statistics are displayed. Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE) are calculated to evaluate the performance of the model.
 
+<center><img src="Images/Stocks.png"/></center>
