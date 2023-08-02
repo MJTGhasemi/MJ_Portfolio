@@ -1,4 +1,4 @@
-tion, which automatically determines the model's best parameters (p, d, q)# Portfolio
+# Portfolio
 ---
 
 ## Stock Price EDA and Analysis (Time Series)
@@ -15,7 +15,7 @@ An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted 
 
 - Autocorrelation and partial autocorrelation plots are generated for the differences in the closing prices.
 
-- An ARIMA model fits the training data using the.
+- An ARIMA model fits the training data using the auto_arima function, which automatically determines the model's best parameters (p, d, q). 
 
 - The trained model is used to forecast the closing prices for the test set. The forecasts are plotted alongside the actual values. The residuals of the model are also plotted, and their statistics are displayed. Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE) are calculated to evaluate the performance of the model.
 
