@@ -1,8 +1,8 @@
-title: <p align="center"> Mojtaba Ghasemi </p>
+title: "<p align='center'> Mojtaba Ghasemi </p>"
 
 logo: "/Images/MJ_Picture.jpg?raw=true"
 
-description:
+description: |
   <p align="center">
   <a href="PDF/MJ_CV_2024.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/mojtabaghasemi/">LinkedIn</a> |
@@ -16,7 +16,8 @@ description:
   <br><br>
   I am actively seeking new challenges where I can leverage my skills to drive business growth and innovation through strategic data utilization, collaborating with cross-functional teams, developing innovative AI solutions, and enhancing data communication and visualization to support decision-making processes.
   <br><br>
-</p>
+  </p>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-145578661-1 # Google Analytics tracking ID
+
