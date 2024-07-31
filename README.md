@@ -48,13 +48,19 @@ This project explores the detailed dynamics of cellular differentiation and matu
 ### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/ScRNA-Sequencing)
 
 ### Key Components
-![CDF of Number of Genes Expressed per Cell](path/to/RNA_CDF.jpg)
+![CDF of Number of Genes Expressed per Cell](Images/RNA_CDF.jpg)
 
 #### Data Wrangling
 The data wrangling process involved comprehensive data cleaning, integration, and transformation of single-cell genomic data from bone marrow stem cells. This step was crucial for preparing the dataset for in-depth exploratory data analysis and subsequent modeling.
+![Distribution of Cells by Cell Type and Donor](Images/RNA_Distribution.jpg)
+
+#### Handling Sparse Data
+Understanding and visualizing the sparsity of data is key to choosing the right preprocessing and modeling techniques.
+![Sparsity Pattern of Gene Expression](Images/RNA_Pattern_Training.jpg)
 
 #### Exploratory Data Analysis (EDA)
 A thorough EDA was conducted to identify significant patterns, outliers, and relationships within the data. This included univariate, bivariate, and multivariate analyses, utilizing visualization techniques such as heatmaps, violin plots, and scatter plots.
+![CITEseq Features, Projected to the First Two SVD Components](Images/RNA_SVD.jpg)
 
 #### Preprocessing and Predictive Modeling
 Various machine learning models were developed to predict gene-protein interactions, focusing on model performance and robustness. This phase involved feature engineering, model selection, and extensive evaluation.
