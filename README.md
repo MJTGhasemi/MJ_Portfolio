@@ -14,12 +14,23 @@ This project leverages data science to transform unstructured hotel reviews into
 
 #### Data Wrangling
 The dataset includes reviews from TripAdvisor, incorporating textual feedback and hotel metadata. The data cleaning process involved removing missing values and normalizing the text, setting the stage for detailed feature extraction and analysis.
+![Rating Distribution of the Data](Images/rating_distribution.png)
 
 #### Exploratory Data Analysis (EDA)
 The EDA focused on word frequency and sentiment analysis to identify key themes from customer reviews. Techniques like word clouds and sentiment-specific visualizations were used to illustrate prevalent terms and emotions expressed by guests.
 
+![Positive Reviews Word Cloud](Images/positive_wordcloud.png)
+![Negative Reviews Word Cloud](Images/negative_wordcloud.png)
+
+#### Sentiment & Ratings Analysis
+Here, we see how the sentiments distribute across different ratings, which is crucial for understanding customer satisfaction in depth.
+
+![Sentiment & Ratings Distribution](Images/sentiment_ratings_distribution.png)
+
 #### Machine Learning Modeling
 Several machine learning algorithms, including logistic regression and random forest, were employed. The transformation of review text into TF-IDF vectors facilitated the training of predictive models, which were meticulously tuned to optimize performance.
+
+![Confusion Matrix](Images/confusion_matrix.png)
 
 ### Final Report
 The final report discusses the methodologies, results, and insights from the analysis, highlighting the predictive power of machine learning in interpreting customer reviews and guiding hotel management strategies.
@@ -100,5 +111,10 @@ An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted 
 - An ARIMA model fits the training data using the auto_arima function, which automatically determines the model's best parameters (p, d, q).
 
 - The trained model is used to forecast the closing prices for the test set. The forecasts are plotted alongside the actual values. The residuals of the model are also plotted, and their statistics are displayed. Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE) are calculated to evaluate the performance of the model.
+
+![Heatmap of Closing Price](Images/Heatmap_Closing_Price.png)
+![Stocks](Images/Stocks.png)
+![Stocks Daily Closing](Images/Stocks_Daily_Closing.png)
+![Stocks Train Test](Images/Stocks_Daily_Closing.png)
 
 
