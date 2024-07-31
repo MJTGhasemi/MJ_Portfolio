@@ -124,7 +124,6 @@ An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted 
 
 <p align="center">
   <img src="Images/Stocks.png" alt="Stocks"/>
-  <img src="Images/Stocks_Daily_Closing.png" alt="Stocks Daily Closing"/>
 </p>
 
 
