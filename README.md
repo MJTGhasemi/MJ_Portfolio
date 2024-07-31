@@ -40,9 +40,6 @@ Several machine learning algorithms, including logistic regression and random fo
   <img src="Images/confusion_matrix.png" alt="Confusion Matrix"/>
 </p>
 
-### Final Report
-The final report discusses the methodologies, results, and insights from the analysis, highlighting the predictive power of machine learning in interpreting customer reviews and guiding hotel management strategies.
-
 ### Key Findings
 - Machine learning models can effectively predict hotel ratings from customer reviews.
 - Sentiment analysis reveals critical factors influencing guest satisfaction.
@@ -91,9 +88,6 @@ A thorough EDA was conducted to identify significant patterns, outliers, and rel
 
 #### Preprocessing and Predictive Modeling
 Various machine learning models were developed to predict gene-protein interactions, focusing on model performance and robustness. This phase involved feature engineering, model selection, and extensive evaluation.
-
-### Final Report
-The final report compiles all findings and insights, providing a detailed discussion of the methodologies used, key results, implications for future research, and potential practical applications.
 
 ### Key Findings
 - Identification of critical gene-protein relationships essential for understanding cellular maturation.
