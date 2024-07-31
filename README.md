@@ -14,23 +14,31 @@ This project leverages data science to transform unstructured hotel reviews into
 
 #### Data Wrangling
 The dataset includes reviews from TripAdvisor, incorporating textual feedback and hotel metadata. The data cleaning process involved removing missing values and normalizing the text, setting the stage for detailed feature extraction and analysis.
-![Rating Distribution of the Data](Images/rating_distribution.png)
+<p align="center">
+  <img src="Images/rating_distribution.png" alt="Rating Distribution of the Data"/>
+</p>
 
 #### Exploratory Data Analysis (EDA)
 The EDA focused on word frequency and sentiment analysis to identify key themes from customer reviews. Techniques like word clouds and sentiment-specific visualizations were used to illustrate prevalent terms and emotions expressed by guests.
 
-![Positive Reviews Word Cloud](Images/positive_wordcloud.png)
-![Negative Reviews Word Cloud](Images/negative_wordcloud.png)
+<p align="center">
+  <img src="Images/positive_wordcloud.png" alt="Positive Reviews Word Cloud"/>
+  <img src="Images/negative_wordcloud.png" alt="Negative Reviews Word Cloud"/>
+</p>
 
 #### Sentiment & Ratings Analysis
 Here, we see how the sentiments distribute across different ratings, which is crucial for understanding customer satisfaction in depth.
 
-![Sentiment & Ratings Distribution](Images/sentiment_ratings_distribution.png)
+<p align="center">
+  <img src="Images/sentiment_ratings_distribution.png" alt="Sentiment & Ratings Distribution"/>
+</p>
 
 #### Machine Learning Modeling
 Several machine learning algorithms, including logistic regression and random forest, were employed. The transformation of review text into TF-IDF vectors facilitated the training of predictive models, which were meticulously tuned to optimize performance.
 
-![Confusion Matrix](Images/confusion_matrix.png)
+<p align="center">
+  <img src="Images/confusion_matrix.png" alt="Confusion Matrix"/>
+</p>
 
 ### Final Report
 The final report discusses the methodologies, results, and insights from the analysis, highlighting the predictive power of machine learning in interpreting customer reviews and guiding hotel management strategies.
@@ -59,19 +67,27 @@ This project explores the detailed dynamics of cellular differentiation and matu
 ### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/ScRNA-Sequencing)
 
 ### Key Components
-![CDF of Number of Genes Expressed per Cell](Images/RNA_CDF.jpg)
+<p align="center">
+  <img src="Images/RNA_CDF.jpg" alt="CDF of Number of Genes Expressed per Cell"/>
+</p>
 
 #### Data Wrangling
 The data wrangling process involved comprehensive data cleaning, integration, and transformation of single-cell genomic data from bone marrow stem cells. This step was crucial for preparing the dataset for in-depth exploratory data analysis and subsequent modeling.
-![Distribution of Cells by Cell Type and Donor](Images/RNA_Distribution.jpg)
+<p align="center">
+  <img src="Images/RNA_Distribution.jpg" alt="Distribution of Cells by Cell Type and Donor"/>
+</p>
 
 #### Handling Sparse Data
 Understanding and visualizing the sparsity of data is key to choosing the right preprocessing and modeling techniques.
-![Sparsity Pattern of Gene Expression](Images/RNA_Pattern_Training.jpg)
+<p align="center">
+  <img src="Images/RNA_Pattern_Training.jpg" alt="Sparsity Pattern of Gene Expression"/>
+</p>
 
 #### Exploratory Data Analysis (EDA)
 A thorough EDA was conducted to identify significant patterns, outliers, and relationships within the data. This included univariate, bivariate, and multivariate analyses, utilizing visualization techniques such as heatmaps, violin plots, and scatter plots.
-![CITEseq Features, Projected to the First Two SVD Components](Images/RNA_SVD.jpg)
+<p align="center">
+  <img src="Images/RNA_SVD.jpg" alt="CITEseq Features, Projected to the First Two SVD Components"/>
+</p>
 
 #### Preprocessing and Predictive Modeling
 Various machine learning models were developed to predict gene-protein interactions, focusing on model performance and robustness. This phase involved feature engineering, model selection, and extensive evaluation.
@@ -112,9 +128,10 @@ An Exploratory Data Analysis (EDA) and Time Series Analysis have been conducted 
 
 - The trained model is used to forecast the closing prices for the test set. The forecasts are plotted alongside the actual values. The residuals of the model are also plotted, and their statistics are displayed. Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE) are calculated to evaluate the performance of the model.
 
-![Heatmap of Closing Price](Images/Heatmap_Closing_Price.png)
-![Stocks](Images/Stocks.png)
-![Stocks Daily Closing](Images/Stocks_Daily_Closing.png)
-![Stocks Train Test](Images/Stocks_Daily_Closing.png)
+<p align="center">
+  <img src="Images/Stocks.png" alt="Stocks"/>
+  <img src="Images/Stocks_Daily_Closing.png" alt="Stocks Daily Closing"/>
+</p>
+
 
 
