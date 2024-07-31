@@ -8,7 +8,7 @@
 
 This project leverages data science to transform unstructured hotel reviews into structured, actionable insights, aiming to predict hotel ratings based on customer feedback. The analysis encompasses data wrangling, exploratory data analysis (EDA), and machine learning modeling to uncover and predict the layers of customer sentiment affecting the hospitality industry.
 
-### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/Hotel_Reviews)
+### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/Predecting-Hotel-Rating)
 
 ### Key Components
 
@@ -61,7 +61,7 @@ The project demonstrates the importance of data-driven insights in the hospitali
 
 This project explores the detailed dynamics of cellular differentiation and maturation using single-cell RNA sequencing (scRNA-seq) techniques. It covers extensive data wrangling, exploratory data analysis, and predictive modeling to investigate the gene-protein interactions as bone marrow stem cells evolve into mature blood cells. The complete analysis pipeline is documented across multiple Jupyter notebooks, each focusing on a crucial aspect of the data science workflow.
 
-### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/ScRNA-Sequencing)
+### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/Single-cell-RNA-Sequencing-Analysis)
 
 ### Key Components
 <p align="center">
