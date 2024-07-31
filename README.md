@@ -48,6 +48,7 @@ This project explores the detailed dynamics of cellular differentiation and matu
 ### [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MJTGhasemi/ScRNA-Sequencing)
 
 ### Key Components
+![CDF of Number of Genes Expressed per Cell](path/to/RNA_CDF.jpg)
 
 #### Data Wrangling
 The data wrangling process involved comprehensive data cleaning, integration, and transformation of single-cell genomic data from bone marrow stem cells. This step was crucial for preparing the dataset for in-depth exploratory data analysis and subsequent modeling.
